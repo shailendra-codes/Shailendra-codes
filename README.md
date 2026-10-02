@@ -1,10 +1,10 @@
-[![Google Bug Hunters](https://shields.io)](https://github.com) [![Microsoft Researcher](https://shields.io)](https://github.com)
-## Hi there I am shailendra 
+## Hi there I am shailendra
 Python Developer
-contact:shailendr3489@gmail.com 
+contact: shailendr3489@gmail.com
 
 <!--
-**shailendra-codes/Shailendra-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shailendra-codes/shailendra-codes** is a *special* repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to see your changes.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
