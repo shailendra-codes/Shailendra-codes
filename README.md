@@ -1,4 +1,4 @@
-[![Google Contributor](https://shields.io)](https://github.com)
+[![Google Contributor](https://shields.io)](https://github.com) [![Microsoft Researcher](https://shields.io)](https://github.com)
 ## Hi there I am shailendra 
 Python Developer
 contact:shailendr3489@gmail.com 
