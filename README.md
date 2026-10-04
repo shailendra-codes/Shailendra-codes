@@ -16,4 +16,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+ ### 🧬 Maliklang Architecture & Development Roadmap (V1 - V4)
+
+#### 💻 Maliklang V1: Hinglish AI Compiler
+![Maliklang V1](https://ibb.co)
+
+#### 🧫 Maliklang V2: Cancer Genomic Mapping AI
+![Maliklang V2](https://ibb.co)
+
+#### 🧠 Maliklang V3: Neuro-AI Thought Decoder
+![Maliklang V3](https://ibb.co)
+
+#### 🛡️ Maliklang V4: Self-Healing Architecture
+![Maliklang V4](https://ibb.co)
  
